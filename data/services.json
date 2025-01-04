@@ -1,0 +1,97 @@
+[
+    {
+        "h3": "Terapia Deportiva",
+        "img": "images/services/terapia-deportiva.webp",
+        "text": "Es una rama de la Fisioterapia que permite a los deportistas recuperar su condición física y mejorar su confianza a través del fortalecimiento y recuperación de músculos, ligamentos, articulaciones, etc. sin necesidad de cirugía ni medicación."
+    },
+    {
+        "h3": "Terapia Respiratoria",
+        "img": "images/services/terapia-respiratoria.webp",
+        "text": "Es un programa individualizado para mejorar la capacidad física, la fuerza muscular, la tolerancia al ejercicio y reducir la sensación de dificultad para respirar, ejercicios y tratamientos que ayudan a mejorar o recuperar la función pulmonar."
+    },
+    {
+        "h3": "Masajes Relajantes",
+        "img": "images/services/masajes.webp",
+        "text": "Es un masaje enfocado a las zonas del cuerpo donde generalmente se acumula la tensión muscular, como la espalda y el cuello, además de buscar el estado de relajación y salud del paciente."
+    },
+    {
+        "h3": "Rehabilitación Neurológica",
+        "img": "images/services/rehabilitacion-neurologica.webp",
+        "text": "Se encarga de cuidar aquellas zonas del cuerpo que se han visto afectadas por problemas neurológicos y entre las que se pueden encontrar diferentes tipos de disfunciones en el sistema nervioso central."
+    },
+    {
+        "h3": "Terapia a Domicilio",
+        "img": "images/services/terapia-domicilio.webp",
+        "text": "La fisioterapia domiciliaria es una rama especializada de la fisioterapia que se brinda en el hogar del paciente en lugar de en una clínica u hospital. Este enfoque está diseñado para quienes tienen dificultades para moverse o para quienes la terapia en el hogar es más conveniente y eficaz."
+    },
+    {
+        "h3": "Terapia Geriatrica",
+        "img": "images/services/terapia-geriatrica.webp",
+        "text": "En el Perú es una segunda especialidad de la fisioterapia que trabaja en la prevención, diagnóstico y tratamiento de patologías en personas mayores. Se basa en formas específicas de aplicación y adaptación de las personas mayores y es una disciplina fundamental a la hora de tratar las enfermedades derivadas del envejecimiento."
+    },
+    {
+        "h3": "Fisioterapia y Rehabilitación Pediátrica",
+        "img": "images/services/terapia-fisica-rehabilitacion.webp",
+        "text": "La fisioterapia pediátrica es la disciplina de la fisioterapia que se encarga del asesoramiento, tratamiento y cuidado de aquellos bebés, niños y adolescentes que presentan un retraso general en su desarrollo, alteraciones del movimiento (tanto congénitos como adquiridos) o que se encuentran en situación de riesgo. . sufrirlos."
+    },
+    {
+        "h3": "Lumbalgia",
+        "img": "images/services/lumbalgia.webp",
+        "text": "Es la presencia de dolor en la región lumbar, es decir, en la espalda y cintura, que frecuentemente se extiende a las nalgas y muslos; Generalmente ocurre después de realizar un gran esfuerzo con una mala postura."
+    },
+    {
+        "h3": "Tendonitis",
+        "img": "images/services/tendinitis.webp",
+        "text": "Es una inflamación del tendón de alguna región del cuerpo, estructura formada por tejido conectivo encargado de unir el músculo al hueso para poder realizar una fuerza de contracción adecuada."
+    },
+    {
+        "h3": "Esguince",
+        "img": "images/services/esguince.webp",
+        "text": "Es un estiramiento o desgarro de ligamentos, las bandas duras de tejido fibroso que conectan dos huesos en las articulaciones. La localización más común de un esguince es el tobillo, existen varios tipos de esguinces."
+    },
+    {
+        "h3": "Hernias de Discales",
+        "img": "images/services/hernia-dical.webp",
+        "text": "El disco puede salirse de su lugar (herniarse) o romperse debido a una lesión o distensión. Cuando esto sucede, puede haber presión sobre uno o más nervios espinales. Esto puede provocar dolor, entumecimiento o debilidad."
+    },
+    {
+        "h3": "Hombro Doloroso",
+        "img": "images/services/hombro-doloroso.webp",
+        "text": "Las causas que pueden desencadenar una patología o lesión en el hombro son la degeneración de los tendones por desgaste, esfuerzos físicos repetitivos en el trabajo o deporte y traumatismos violentos."
+    },
+    {
+        "h3": "Ciatalgia",
+        "img": "images/services/lumbo-ciatica.webp",
+        "text": "Dolor en la zona lumbar que se irradia a la extremidad inferior de una o ambas piernas, llegando en ocasiones incluso al pie. El malestar es constante, se presenta durante el día y la noche. También puede ir acompañado de un déficit sensorial o de fuerza. Se sugiere evaluación en Fisioterapia."
+    },
+    {
+        "h3": "Pie Plano",
+        "img": "images/services/pie-plano.webp",
+        "text": "Es una afección común en la que los arcos de la parte interna del pie se aplanan cuando se les aplica presión. Cuando las personas con pie plano se ponen de pie, el pie mira hacia afuera y toda la planta del pie cae y toca el suelo. Hay grados de pie plano."
+    },
+    {
+        "h3": "Escoliosis",
+        "img": "images/services/escoliosis.webp",
+        "text": "Es una curvatura lateral de la columna. Los niños y adolescentes con escoliosis tienen una curvatura anormal de la columna en forma de S o C. Las radiografías ayudan a determinar el tipo de escoliosis; La evaluación de fisioterapia es importante."
+    },
+    {
+        "h3": "Síndrome del Túnel Carpiano",
+        "img": "images/services/sindrome-tunel-carpiano.webp",
+        "text": "Condición en la que hay una presión excesiva sobre el nervio mediano de la muñeca. Este es el nervio que permite la sensibilidad y movimiento a partes de la mano, cuando está alterado genera debilidad, dolor e incluso pérdida de fuerza, la evaluación en fisioterapia es importante."
+    },
+    {
+        "h3": "Parálisis Facial",
+        "img": "images/services/parilicis-facial.webp",
+        "text": "Consiste en la pérdida total o parcial del movimiento muscular voluntario de un lado de la cara. Es causada por un fallo en el nervio facial, que no lleva las órdenes nerviosas a los músculos principales de la cara."
+    },
+    {
+        "h3": "Parkinson",
+        "img": "images/services/parkinson.webp",
+        "text": "Es un trastorno cerebral que provoca movimientos involuntarios o incontrolables, como temblores, rigidez y dificultad de equilibrio y coordinación. Por lo general, los síntomas comienzan lentamente y empeoran con el tiempo; hay varias fases."
+    },
+    {
+        "h3": "Artritis",
+        "img": "images/services/artritis.webp",
+        "text": "Es una enfermedad que implica la inflamación de una o más articulaciones, provocando dolor, hinchazón, rigidez y pérdida de movimiento. Esta afección puede afectar cualquier articulación del cuerpo, pero es más común en las manos, las rodillas, las caderas y la columna."
+    }
+]
